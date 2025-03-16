@@ -19,7 +19,7 @@ class Bio:
             "os": ["Linux"].
             "tools": ["Docker", "Kubernetes", "AWS",
                     "Django", "Flask", "NGINX",
-                    "Github_Actions"
+                    "Github_Actions", "BASH", "YAML"
                 ]
         }
         
