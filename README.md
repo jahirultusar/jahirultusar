@@ -50,15 +50,12 @@ class Intro:
         print("Let's connect and keep building awesome things together!")
 ```
 
-# 💫 About Me:
-🔭 I’m currently working on my personal development tracker dashboard<br><br>🌱 I’m currently learning Django<br><br>👯 I’m looking to collaborate on fun and impactful projects<br><br>📝 I regularly write articles on https://blog.jahirultusar.com/<br><br>💬 Ask me about my journey<br><br>📫 How to reach me contact@jahirultusar.com<br><br>⚡ Fun fact: What is a fun fact?!
 
-
-## 🌐 Socials:
+### 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@jahirultusar.com) 
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jahirultusar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
