@@ -16,6 +16,7 @@ class Bio:
         self.tech_stack = {
             "languages": ["Python", "JavaScript", "HTML", "CSS"],
             "version_control": ["Git"],
+            "os": ["Linux"].
             "tools": ["Docker", "Kubernetes", "AWS", "Django", "Flask", "NGINX"]
         }
         
@@ -31,7 +32,8 @@ class Bio:
             "curious",
             "love learning"
         ]
-        
+
+        self.currently_learning = "BASH"
         self.current_project = "Building my personal development tracking dashboard"
         self.blog = "https://blog.jahirultusar.com/"
         self.site = "https://jahirultusar.com/"
