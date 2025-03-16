@@ -17,7 +17,10 @@ class Bio:
             "languages": ["Python", "JavaScript", "HTML", "CSS"],
             "version_control": ["Git"],
             "os": ["Linux"].
-            "tools": ["Docker", "Kubernetes", "AWS", "Django", "Flask", "NGINX"]
+            "tools": ["Docker", "Kubernetes", "AWS",
+                    "Django", "Flask", "NGINX",
+                    "Github_Actions"
+                ]
         }
         
         self.interests = [
