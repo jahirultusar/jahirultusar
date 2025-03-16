@@ -33,7 +33,7 @@ class Tusar:
         print("and AWS, and I'm always up for learning more about securing the internet.")
         print(f"Check out my blog at {self.blog} or my personal site at {self.site} to learn more.")
         print("Let's connect and keep building awesome things together!")
-
+```
 
 # 💫 About Me:
 🔭 I’m currently working on my personal development tracker dashboard<br><br>🌱 I’m currently learning Django<br><br>👯 I’m looking to collaborate on fun and impactful projects<br><br>📝 I regularly write articles on https://blog.jahirultusar.com/<br><br>💬 Ask me about my journey<br><br>📫 How to reach me contact@jahirultusar.com<br><br>⚡ Fun fact: What is a fun fact?!
