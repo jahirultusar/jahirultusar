@@ -4,7 +4,7 @@
 
 
 ```python
-class Jahirul:
+class Intro:
     """Hello, world!"""
     
     def __init__(self):
@@ -37,7 +37,7 @@ class Jahirul:
         self.blog = "https://blog.jahirultusar.com/"
         self.site = "https://jahirultusar.com/"
 
-    def introduction(self):
+    def bio(self):
         """My intro chat"""
         
         print(f"Hey there! I'm Jahirul Tusar, currently working at DESNZ.")
