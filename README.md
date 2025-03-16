@@ -11,7 +11,7 @@ class Intro:
         self.name = "Jahirul Islam - Tusar"
         self.pronouns = ["he", "him"]
         
-        self.currently_working = "Department of Energy Security and Net Zero"
+        self.currently_working = "Department for Energy Security and Net Zero"
         
         self.tech_stack = {
             "languages": ["Python", "JavaScript", "HTML", "CSS"],
