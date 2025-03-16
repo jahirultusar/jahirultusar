@@ -1,6 +1,40 @@
 <h1 align="center">Hi 👋, I'm Jahirul Tusar</h1>
 <h3 align="center">very curious mind</h3>
 
+# Hi there, I'm Jahirul Islam (Tusar)! 👋
+
+```python
+class Tusar:
+    def __init__(self):
+        self.name = "Jahirul Islam - Tusar"
+        self.pronouns = ["he", "him"]
+        self.currently_working = "Department of Energy Security and Net Zero"
+        self.languages = ["Python", "HTML", "CSS", "JavaScript"]
+        self.version_control = ["Git"]
+        self.tools = ["Docker", "Kubernetes", "AWS", "Django", "Flask", "NGINX"]
+        self.interests = [
+            "DevOps",
+            "Securing the internet",
+            "Building stuff"
+        ]
+        self.thought_process = [
+            "open-minded",
+            "curious",
+            "love learning"
+        ]
+        self.current_project = "Building my personal development tracking dashboard"
+        self.blog = "https://blog.jahirultusar.com/"
+        self.site = "https://jahirultusar.com/"
+
+    def introduction(self):
+        print(f"Hey there! I'm {self.name}, currently working at {self.currently_working}.")
+        print("I enjoy exploring new technologies and applying DevOps principles to create reliable,")
+        print("scalable solutions. I'm especially interested in tools like Docker, Kubernetes,")
+        print("and AWS, and I'm always up for learning more about securing the internet.")
+        print(f"Check out my blog at {self.blog} or my personal site at {self.site} to learn more.")
+        print("Let's connect and keep building awesome things together!")
+
+
 # 💫 About Me:
 🔭 I’m currently working on my personal development tracker dashboard<br><br>🌱 I’m currently learning Django<br><br>👯 I’m looking to collaborate on fun and impactful projects<br><br>📝 I regularly write articles on https://blog.jahirultusar.com/<br><br>💬 Ask me about my journey<br><br>📫 How to reach me contact@jahirultusar.com<br><br>⚡ Fun fact: What is a fun fact?!
 
