@@ -6,13 +6,19 @@
 ```python
 class Jahirul:
     """About me"""
+    
     def __init__(self):
         self.name = "Jahirul Islam - Tusar"
         self.pronouns = ["he", "him"]
+        
         self.currently_working = "Department of Energy Security and Net Zero"
-        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
-        self.version_control = ["Git"]
-        self.tools = ["Docker", "Kubernetes", "AWS", "Django", "Flask", "NGINX"]
+        
+        self.tech_stack = {
+            "languages": ["Python", "JavaScript", "HTML", "CSS"],
+            "version_control": ["Git"],
+            "tools": ["Docker", "Kubernetes", "AWS", "Django", "Flask", "NGINX"]
+        }
+        
         self.interests = [
             "DevOps",
             "Securing the internet",
@@ -20,17 +26,20 @@ class Jahirul:
             "Music",
             "Space"
         ]
+        
         self.thought_process = [
             "open-minded",
             "curious",
             "love learning"
         ]
+        
         self.current_project = "Building my personal development tracking dashboard"
         self.blog = "https://blog.jahirultusar.com/"
         self.site = "https://jahirultusar.com/"
 
     def introduction(self):
         """My intro chat"""
+        
         print(f"Hey there! I'm Jahirul Tusar, currently working at DESNZ.")
         print("I enjoy exploring new technologies and applying DevOps principles to create reliable,")
         print("scalable solutions. I'm especially interested in tools like Docker, Kubernetes,")
