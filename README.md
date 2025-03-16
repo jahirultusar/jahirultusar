@@ -51,12 +51,9 @@ class Intro:
 ```
 
 
-### 🌐 Socials:
+### 🌐 Contact:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@jahirultusar.com) 
 
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jahirultusar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 ### ✍️ Random Dev Quote
