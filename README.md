@@ -1,11 +1,11 @@
 
-### 👋
+### Hello, world! 👋
 
 
 
 ```python
 class Bio:
-    """Hello, world!"""
+    """My Bio"""
     
     def __init__(self):
         self.name = "Jahirul Islam - Tusar"
@@ -40,7 +40,7 @@ class Bio:
         self.fun_fact = "What is a fun fact?!"
 
     def intro(self):
-        """My intro chat"""
+        """My intro"""
         
         print(f"Hey there! I'm Jahirul Tusar, currently working at DESNZ.")
         print("I enjoy exploring new technologies and applying DevOps principles to create reliable,")
