@@ -1,8 +1,11 @@
 
 # Hi there, I'm Jahirul Islam (Tusar)! 👋
 
+
+
 ```python
 class Jahirul:
+    """About me"""
     def __init__(self):
         self.name = "Jahirul Islam - Tusar"
         self.pronouns = ["he", "him"]
@@ -27,6 +30,7 @@ class Jahirul:
         self.site = "https://jahirultusar.com/"
 
     def introduction(self):
+        """My intro chat"""
         print(f"Hey there! I'm Jahirul Tusar, currently working at DESNZ.")
         print("I enjoy exploring new technologies and applying DevOps principles to create reliable,")
         print("scalable solutions. I'm especially interested in tools like Docker, Kubernetes,")
