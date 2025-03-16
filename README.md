@@ -31,9 +31,11 @@ class Bio:
         ]
         
         self.thought_process = [
-            "open-minded",
-            "curious",
-            "love learning"
+            "Open-minded",
+            "Very curious",
+            "Love learning",
+            "Determind to grow and develop",
+            "Not afraid to fail"
         ]
 
         self.currently_learning = "BASH"
