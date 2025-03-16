@@ -4,7 +4,7 @@
 
 
 ```python
-class Intro:
+class Bio:
     """Hello, world!"""
     
     def __init__(self):
@@ -39,7 +39,7 @@ class Intro:
 
         self.fun_fact = "What is a fun fact?!"
 
-    def bio(self):
+    def intro(self):
         """My intro chat"""
         
         print(f"Hey there! I'm Jahirul Tusar, currently working at DESNZ.")
