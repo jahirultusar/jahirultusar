@@ -1,11 +1,11 @@
 
-# Hi there, I'm Jahirul Islam (Tusar)! 👋
+### Hi there 👋
 
 
 
 ```python
 class Jahirul:
-    """About me"""
+    """Hello, world!"""
     
     def __init__(self):
         self.name = "Jahirul Islam - Tusar"
