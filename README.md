@@ -21,7 +21,6 @@ class Bio:
         
         self.interests = [
             "DevOps",
-            "Securing the internet",
             "Building stuff",
             "Music",
             "Space"
@@ -43,11 +42,12 @@ class Bio:
         """My intro"""
         
         print(f"Hey there! I'm Jahirul Tusar, currently working at DESNZ.")
-        print("I enjoy exploring new technologies and applying DevOps principles to create reliable,")
-        print("scalable solutions. I'm especially interested in tools like Docker, Kubernetes,")
-        print("and AWS, and I'm always up for learning more about securing the internet.")
+        print("I enjoy exploring new technologies and learning")
+        print("I'm especially interested in DevOps tools and cloud technologies like Docker, Kubernetes, and AWS")
+        print("Huge fan of AI and I think this is a natural progression to human evolution.")
         print(f"Check out my blog or my personal site to learn more.")
         print("Let's connect and keep building awesome things together!")
+        Print("Also, let's make internet a safer place for everyone.. Happy learning!")
 ```
 
 
