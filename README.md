@@ -4,7 +4,7 @@
 
 
 ```python
-class Bio:
+class Profile:
     """My Bio"""
     
     def __init__(self):
