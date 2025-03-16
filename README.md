@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Jahirul Tusar</h1>
-<h3 align="center">very curious mind</h3>
 
 # Hi there, I'm Jahirul Islam (Tusar)! 👋
 
 ```python
-class Tusar:
+class Jahirul:
     def __init__(self):
         self.name = "Jahirul Islam - Tusar"
         self.pronouns = ["he", "him"]
         self.currently_working = "Department of Energy Security and Net Zero"
-        self.languages = ["Python", "HTML", "CSS", "JavaScript"]
+        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
         self.version_control = ["Git"]
         self.tools = ["Docker", "Kubernetes", "AWS", "Django", "Flask", "NGINX"]
         self.interests = [
             "DevOps",
             "Securing the internet",
-            "Building stuff"
+            "Building stuff",
+            "Music",
+            "Space"
         ]
         self.thought_process = [
             "open-minded",
@@ -27,11 +27,11 @@ class Tusar:
         self.site = "https://jahirultusar.com/"
 
     def introduction(self):
-        print(f"Hey there! I'm {self.name}, currently working at {self.currently_working}.")
+        print(f"Hey there! I'm Jahirul Tusar, currently working at DESNZ.")
         print("I enjoy exploring new technologies and applying DevOps principles to create reliable,")
         print("scalable solutions. I'm especially interested in tools like Docker, Kubernetes,")
         print("and AWS, and I'm always up for learning more about securing the internet.")
-        print(f"Check out my blog at {self.blog} or my personal site at {self.site} to learn more.")
+        print(f"Check out my blog or my personal site to learn more.")
         print("Let's connect and keep building awesome things together!")
 ```
 
