@@ -65,7 +65,6 @@ class Profile:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![VC](https://profile-counter.glitch.me/{jahirultusar}/count.svg)
 
 
 <picture>
@@ -73,3 +72,5 @@ class Profile:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+![VC](https://profile-counter.glitch.me/{jahirultusar}/count.svg)
