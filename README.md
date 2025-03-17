@@ -34,8 +34,8 @@ class Profile:
             "Open-minded",
             "Very curious",
             "Love learning",
-            "Determind to grow and develop",
-            "Not afraid to fail"
+            "Not afraid to fail",
+            "Determind to grow and develop"
         ]
 
         self.currently_learning = "BASH"
