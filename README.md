@@ -16,7 +16,7 @@ class Profile:
         self.tech_stack = {
             "languages": ["Python", "JavaScript", "HTML", "CSS"],
             "version_control": ["Git"],
-            "os": ["Linux"].
+            "os": ["Linux"],
             "tools": ["Docker", "Kubernetes", "AWS",
                     "Django", "Flask", "NGINX",
                     "Github_Actions", "BASH", "YAML"
