@@ -38,7 +38,7 @@ class Profile:
             "Determind to grow and develop"
         ]
 
-        self.currently_learning = "BASH"
+        self.currently_learning = "Jenkins"
         self.current_project = "Building my personal development tracking dashboard"
         self.blog = "https://blog.jahirultusar.com/"
         self.site = "https://jahirultusar.com/"
