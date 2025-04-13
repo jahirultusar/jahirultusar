@@ -43,7 +43,7 @@ class Profile:
         self.blog = "https://blog.jahirultusar.com/"
         self.site = "https://jahirultusar.com/"
 
-        self.fun_fact = "What is a fun fact?! lol .. I climbed three UK nattional peaks within 29 hours"
+        self.fun_fact = "What is a fun fact?! lol .. I climbed three UK national peaks within 29 hours"
 
     def intro(self):
         """My intro"""
