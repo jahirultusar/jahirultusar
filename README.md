@@ -45,7 +45,8 @@ class Profile:
             "npm: https://www.npmjs.com/package/string-utils-lite"
             "Live demo: https://jahirultusar.github.io/JavaScript-string-utils-lite/index.html"
         )
-        self.current_project = ("Building my personal development tracking dashboard"
+        self.current_project = (
+            "Building my personal development tracking dashboard"
             "GitHub: https://github.com/jahirultusar/100-days"
             "Live demo: https://health.jahirultusar.com/dashboard"
         )
