@@ -40,14 +40,14 @@ class Profile:
 
         self.currently_learning = "Terraform"
         self.recent_work = (
-            "Published a small text transformation library for JavaScript as a npm package."
-            "GitHub: https://github.com/jahirultusar/JavaScript-string-utils-lite | "
-            "npm: https://www.npmjs.com/package/string-utils-lite"
+            "Published a small text transformation library for JavaScript as a npm package",
+            "GitHub: https://github.com/jahirultusar/JavaScript-string-utils-lite",
+            "npm: https://www.npmjs.com/package/string-utils-lite",
             "Live demo: https://jahirultusar.github.io/JavaScript-string-utils-lite/index.html"
         )
         self.current_project = (
-            "Building my personal development tracking dashboard"
-            "GitHub: https://github.com/jahirultusar/100-days"
+            "Building my personal development tracking dashboard",
+            "GitHub: https://github.com/jahirultusar/100-days",
             "Live demo: https://health.jahirultusar.com/dashboard"
         )
         self.blog = "https://blog.jahirultusar.com/"
