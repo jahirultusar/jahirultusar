@@ -38,7 +38,8 @@ class Profile:
             "Determind to grow and develop"
         ]
 
-        self.currently_learning = "Jenkins"
+        self.currently_learning = "Terraform"
+        self.recent_work = "Published a small text transformation library for JavaScript as a npm package" 🔗 [GitHub Repo](https://github.com/jahirultusar/JavaScript-string-utils-lite) | 📦 [npm Package](https://www.npmjs.com/package/string-utils-lite)"
         self.current_project = "Building my personal development tracking dashboard"
         self.blog = "https://blog.jahirultusar.com/"
         self.site = "https://jahirultusar.com/"
