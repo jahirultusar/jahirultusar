@@ -24,7 +24,7 @@ class Profile:
         }
         
         self.interests = [
-            "DevOps",
+            "Cloud Engineering",
             "Building stuff",
             "Music",
             "Space"
