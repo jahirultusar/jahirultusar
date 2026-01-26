@@ -60,7 +60,7 @@ class Profile:
     def intro(self):
         """My intro"""
         
-        print(f"Hey there! I'm Jahirul Tusar, currently working at DESNZ.")
+        print(f"Hey there! I'm Jahirul Islam (also known as Jay or by my nickname - Tusar), currently working at MoJ.")
         print("I enjoy exploring new technologies and learning")
         print("I'm especially interested in DevOps tools and cloud technologies like Docker, Kubernetes, and AWS")
         print("Huge fan of AI and I think this is a natural progression of intelligent evolution.")
