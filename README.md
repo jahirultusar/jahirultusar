@@ -10,8 +10,10 @@ class Profile:
     def __init__(self):
         self.name = "Jahirul Islam - Tusar"
         self.pronouns = ["he", "him"]
-        
-        self.currently_working = "Department for Energy Security & Net Zero" 
+
+        self.currently_working = "Ministry of Justice (MoJ)" 
+        self.previously_worked_at = "Department for Energy Security & Net Zero (DESNZ)
+                                        & Health and Safety Executive (HSE)" 
         
         self.tech_stack = {
             "languages": ["Python", "JavaScript", "HTML", "CSS"],
