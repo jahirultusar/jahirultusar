@@ -16,12 +16,12 @@ class Profile:
                                         & Health and Safety Executive (HSE)" 
         
         self.tech_stack = {
-            "languages": ["Python", "JavaScript", "HTML", "CSS"],
+            "languages": ["Python", "BASH", "HTML", "CSS"],
             "version_control": ["Git"],
             "server": ["Linux"],
             "tools": ["Docker", "Kubernetes", "AWS",
                     "Django", "Flask", "NGINX",
-                    "Github_Actions", "BASH", "YAML"
+                    "Github_Actions", "YAML"
                 ]
         }
         
