@@ -60,11 +60,11 @@ class Profile:
     def intro(self):
         """My intro"""
         
-        print(f"Hey there! I'm Jahirul Islam (also known as Jay or by my nickname - Tusar), currently working at MoJ.")
+        print("Hey there! I'm Jahirul Islam (also known as Jay or by my nickname - Tusar), currently working at MoJ.")
         print("I enjoy exploring new technologies and learning")
         print("I'm especially interested in DevOps tools and cloud technologies like Docker, Kubernetes, and AWS")
         print("Huge fan of AI and I think this is a natural progression of intelligent evolution.")
-        print(f"Check out my blog or my personal site to learn more.")
+        print("Check out my blog or my personal site to learn more.")
         print("Let's connect and keep building awesome things together!")
         Print("Also, let's make internet a safer place for everyone.. Happy learning!")
 ```
