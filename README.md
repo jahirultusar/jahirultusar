@@ -40,7 +40,7 @@ class Profile:
             "Determind to grow and develop"
         ]
 
-        self.currently_learning = "Terraform"
+        self.currently_learning = "Databases"
         self.recent_work = (
             "Published a small text transformation library for JavaScript as a npm package",
             "GitHub: https://github.com/jahirultusar/JavaScript-string-utils-lite",
