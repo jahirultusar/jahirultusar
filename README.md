@@ -69,12 +69,11 @@ class Profile:
         Print("Also, let's make internet a safer place for everyone.. Happy learning!")
 ```
 
-### 🌐 Contact:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@jahirultusar.com) 
+### Contact: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@jahirultusar.com) 
 
 
 
-### ✍️ Random Quote
+### Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <picture>
